@@ -1,0 +1,33 @@
+.block {
+	padding: 2px;
+    text-decoration: none;
+    display: inline-block;
+	font-size: 100px;
+	margin: 0px 0px 0px 0px;
+}
+.btn {
+	background-color: gold;
+	border-color: black;
+	position: relative;
+	left: 40%;
+	padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 50%;
+}
+.btn-2 {
+	height: 40px;
+	width: 60px;
+	position: relative;
+	left: 12%;
+	margin: 100px;
+}
+.img {
+	height: 100px;
+	position: relative;
+	left: 10%;
+	margin: 100px;
+}
